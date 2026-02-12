@@ -123,20 +123,9 @@ ASP.NET Core (C#)
 
 📈 Scalable architecture
 
-</td> </tr> <tr> <td width="50%">
-🔹 OBD2 Car Performance Analyzer
+</td> </tr> 
 
-Automotive Tech Project
-
-🚗 Real-time vehicle diagnostics
-
-📈 Performance metrics visualization
-
-🔧 OBD2 protocol implementation
-
-📊 Driving data logging & analysis
-
-</td> <td width="50%">
+<td width="50%">
 🔹 Traffic Simulation System
 
 JavaFX
