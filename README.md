@@ -71,53 +71,137 @@ motto: "Always learning. Always building."
 ---
 
 ## 🎯 Featured Projects
+<table> <tr> <td width="50%">
+🔹 Job Offers Platform
 
-<table>
-<tr>
-<td width="50%">
+Django + React
 
-### 🔹 Job Offers Platform
-**Django + React Full Stack Application**
-- 🎨 Modern, responsive UI with React
-- 🔐 Complete authentication system
-- 📊 Advanced search and filtering
-- 💼 Employer & candidate dashboards
+🔐 Complete authentication system
 
-</td>
-<td width="50%">
+📊 Advanced search & smart filtering
 
-### 🔹 Blog Platform
-**Full-Featured Content Management**
-- ✍️ Rich text editor integration
-- 👥 Complete auth & user management
-- 💬 Comments & engagement system
-- 🔒 Role-based access control
+💼 Employer & candidate dashboards
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+🎨 Modern responsive UI
 
-### 🔹 OBD2 Car Performance Analyzer
-**Automotive Tech Project**
-- 🚗 Real-time car diagnostics
-- 📈 Performance metrics visualization
-- 🔧 OBD2 protocol implementation
-- 📊 Data logging and analysis
+</td> <td width="50%">
+🔹 Blog Management Platform
 
-</td>
-<td width="50%">
+Django + React
 
-### 🔹 RESTful API with Node.js
-**Scalable Backend Architecture**
-- 🌐 RESTful API design
-- 🗃️ MySQL database integration
-- 🔑 JWT authentication
-- 📦 Modular architecture
+✍️ Rich text editor integration
 
-</td>
-</tr>
-</table>
+👥 Advanced user & role management
+
+💬 Comment & engagement system
+
+🔒 Secure role-based access control
+
+</td> </tr> <tr> <td width="50%">
+🔹 Mobile Subscription Manager
+
+React Native + Node.js + MongoDB
+
+📱 Subscription tracking (streaming, telecom, services)
+
+🔔 Smart reminders & alerts
+
+📊 Expense analytics dashboard
+
+☁️ Cloud-based backend
+
+</td> <td width="50%">
+🔹 Advertisement Management System
+
+ASP.NET Core (C#)
+
+🗂️ Category-based announcements
+
+🛡️ Moderation & validation workflow
+
+⚡ High performance backend
+
+📈 Scalable architecture
+
+</td> </tr> <tr> <td width="50%">
+🔹 OBD2 Car Performance Analyzer
+
+Automotive Tech Project
+
+🚗 Real-time vehicle diagnostics
+
+📈 Performance metrics visualization
+
+🔧 OBD2 protocol implementation
+
+📊 Driving data logging & analysis
+
+</td> <td width="50%">
+🔹 Traffic Simulation System
+
+JavaFX
+
+🚦 Intelligent traffic flow simulation
+
+🚘 Collision detection & prevention
+
+📊 Real-time traffic analysis
+
+🧠 Algorithmic vehicle behavior
+
+</td> </tr> <tr> <td width="50%">
+🔹 Enterprise Resource Management
+
+Node.js + MySQL
+
+👥 Employee & department management
+
+🗓️ Leave tracking system
+
+📦 Equipment inventory control
+
+📊 Admin analytics dashboard
+
+</td> <td width="50%">
+🔹 School Management System
+
+Laravel
+
+🎓 Academic modules management
+
+📝 Grades & evaluation tracking
+
+👨‍🏫 Student & teacher management
+
+📊 Academic reporting dashboard
+
+</td> </tr> <tr> <td width="50%">
+🔹 Medical Office Management System
+
+PHP + MySQL
+
+🏥 Patient records management
+
+📅 Appointment scheduling
+
+🧾 Medical reports generation
+
+🔐 Secure data handling
+
+</td> <td width="50%">
+🔹 RESTful API Backend
+
+Node.js + Express + MySQL
+
+🌐 RESTful API architecture
+
+🔑 JWT authentication
+
+⚡ Optimized queries & caching
+
+📦 Modular scalable structure
+
+</td> </tr> </table>
 
 ---
 
