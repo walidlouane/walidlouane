@@ -71,124 +71,122 @@ motto: "Always learning. Always building."
 ---
 
 ## 🎯 Featured Projects
-<table> <tr> <td width="50%">
+<table> <tr> <td width="33%">
 🔹 Job Offers Platform
 
 Django + React
 
-🔐 Complete authentication system
+🔐 Auth system
 
-📊 Advanced search & smart filtering
+📊 Smart filtering
 
-💼 Employer & candidate dashboards
+💼 Recruiter dashboards
 
-🎨 Modern responsive UI
+🎨 Modern UI
 
-</td> <td width="50%">
+</td> <td width="33%">
 🔹 Blog Management Platform
 
 Django + React
 
-✍️ Rich text editor integration
+✍️ Rich editor
 
-👥 Advanced user & role management
+👥 User & roles
 
-💬 Comment & engagement system
+💬 Comments
 
-🔒 Secure role-based access control
+🔒 Access control
 
-</td> </tr> <tr> <td width="50%">
+</td> <td width="33%">
 🔹 Mobile Subscription Manager
 
 React Native + Node.js + MongoDB
 
-📱 Subscription tracking (streaming, telecom, services)
+📱 Subscription tracking
 
-🔔 Smart reminders & alerts
+🔔 Alerts
 
-📊 Expense analytics dashboard
+📊 Expense dashboard
 
-☁️ Cloud-based backend
+☁️ Cloud backend
 
-</td> <td width="50%">
+</td> </tr> <tr> <td width="33%">
 🔹 Advertisement Management System
 
 ASP.NET Core (C#)
 
-🗂️ Category-based announcements
+🗂️ Categorized ads
 
-🛡️ Moderation & validation workflow
+🛡️ Moderation
 
-⚡ High performance backend
+⚡ High performance
 
-📈 Scalable architecture
+📈 Scalable
 
-</td> </tr> 
-
-<td width="50%">
+</td> <td width="33%">
 🔹 Traffic Simulation System
 
 JavaFX
 
-🚦 Intelligent traffic flow simulation
+🚦 Smart simulation
 
-🚘 Collision detection & prevention
+🚘 Collision prevention
 
-📊 Real-time traffic analysis
+📊 Traffic analysis
 
-🧠 Algorithmic vehicle behavior
+🧠 Algorithms
 
-</td> </tr> <tr> <td width="50%">
+</td> <td width="33%">
 🔹 Enterprise Resource Management
 
 Node.js + MySQL
 
-👥 Employee & department management
+👥 HR management
 
-🗓️ Leave tracking system
+🗓️ Leave tracking
 
-📦 Equipment inventory control
+📦 Inventory
 
-📊 Admin analytics dashboard
+📊 Admin dashboard
 
-</td> <td width="50%">
+</td> </tr> <tr> <td width="33%">
 🔹 School Management System
 
 Laravel
 
-🎓 Academic modules management
+🎓 Modules
 
-📝 Grades & evaluation tracking
+📝 Grades
 
-👨‍🏫 Student & teacher management
+👨‍🏫 Users
 
-📊 Academic reporting dashboard
+📊 Reports
 
-</td> </tr> <tr> <td width="50%">
-🔹 Medical Office Management System
+</td> <td width="33%">
+🔹 Medical Office Management
 
 PHP + MySQL
 
-🏥 Patient records management
+🏥 Patients
 
-📅 Appointment scheduling
+📅 Scheduling
 
-🧾 Medical reports generation
+🧾 Reports
 
-🔐 Secure data handling
+🔐 Secure data
 
-</td> <td width="50%">
+</td> <td width="33%">
 🔹 RESTful API Backend
 
 Node.js + Express + MySQL
 
-🌐 RESTful API architecture
+🌐 REST architecture
 
-🔑 JWT authentication
+🔑 JWT auth
 
-⚡ Optimized queries & caching
+⚡ Optimized queries
 
-📦 Modular scalable structure
+📦 Modular
 
 </td> </tr> </table>
 
